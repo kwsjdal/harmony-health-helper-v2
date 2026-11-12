@@ -1,0 +1,25 @@
+{
+  "color": [
+    { "name": "primary", "value": "#1ABC9C" },
+    { "name": "primary_light", "value": "#E8F8F5" },
+    { "name": "accent_orange", "value": "#F39C12" },
+    { "name": "accent_blue", "value": "#3498DB" },
+    { "name": "accent_purple", "value": "#9B59B6" },
+    { "name": "accent_red", "value": "#E74C3C" },
+    { "name": "accent_green", "value": "#27AE60" },
+    { "name": "background", "value": "#F5F5F5" },
+    { "name": "surface", "value": "#FFFFFF" },
+    { "name": "text_primary", "value": "#333333" },
+    { "name": "text_secondary", "value": "#999999" },
+    { "name": "text_hint", "value": "#CCCCCC" },
+    { "name": "divider", "value": "#EEEEEE" },
+    { "name": "card_running", "value": "#E74C3C" },
+    { "name": "card_swimming", "value": "#1ABC9C" },
+    { "name": "card_walking", "value": "#9B59B6" },
+    { "name": "card_fitness", "value": "#F39C12" },
+    { "name": "gradient_start", "value": "#667EEA" },
+    { "name": "gradient_end", "value": "#764BA2" },
+    { "name": "overlay", "value": "#80000000" },
+    { "name": "error", "value": "#E74C3C" }
+  ]
+}
